@@ -1,0 +1,151 @@
+Year,Month,Shelter,ClientID,M/F,Age,Placement Code,Placed From,Ethnicity,Placing County,School,Placement Date,Discharge Date,Discharged To
+2021,June,1,1001,F,15,Stepdown from GH,GH,W,Silver Bow,CS Porter,10/11/2019,6/11/2021,FC
+2021,December,1,1002,F,15,BD,K,NA,TSSD-Pablo,Meadow Hill,10/30/2018,12/15/2021,FC
+2021,May,1,1003,M,14,BD,GH,W,Silver Bow,CS Porter,2/3/2021,5/14/2021,N
+2021,November,1,1004,M,14,BD,GH,W,Lewis and Clark,Sentinel,8/11/2021,11/15/2021,K
+2021,July,1,1005,M,14,BD,FC,W,Granite,NA,5/11/2021,7/16/2021,K
+2022,Feb,1,1006,M,14,BD,GH,W,Flathead,CS Porter,2/27/2022,3/23/2022,
+2023,June,1,1007,M,15,BD,K,W,Silver Bow,Meadow Hill,2/22/2021,6/7/2023,FC
+2022,April,1,1008,F,14,BD,FC,W,Silver Bow,Sentinel High,4/2/2022,9/30/2022,N
+2022,March,1,1009,F,14,Drugs/DV,N,NA,Missoula,N/A,2/28/2022,3/1/2022,N
+2023,March,1,1010,F,14,BD,K,N/A,TSSD- Pablo,Hellgate High,1/26/2023,4/3/2023,FC
+2023,Jan,1,1011,M,14,BD,K,NA,TSSD- Pablo,Hellgate High School,1/26/2023,,
+2021,December,1,1012,M,13,N,FC,W,Deer Lodge,Chief Charlo,9/11/2020,12/18/2021,FC
+2021,June,1,1013,F,12,Runaway,Adoptive,W,Missoula,NA,6/13/2021,6/30/2021,GH
+2021,January,1,1014,M,12,BD,N,W,Missoula,Chief Charlo,10/9/2020,1/11/2020,K
+2022,Feb,1,1015,F,13,Mental H,N,W,Missoula,Hellgate,1/15/2022,2/18/2022,FC
+2022,June,2,1016,M,13,BD,N,W,Missoula,NA,6/20/2022,6/22/2022,N
+2023,March,1,1017,M,14,BD,FC,W,Beaverhead Co.,N/A,3/6/2023,3/29/2023,FC
+2023,August,2,1018,M,14,BD,FC,W,Silverbow,NA,9/28/2023,,
+2021,August,1,1019,M,12,sex assault,N,W,Valley Co Probation Office,NA,7/2/2021,8/17/2021,R
+2023,August,1,1020,F,14,BD,K,B,Teton,Sentinel,8/23/2023,9/1/2023,
+2021,October,1,1021,M,12,BD,GD,W,Flathead,CS Porter,9/20/2021,10/16/2021,
+2022,May,2,1022,F,12,BD,FC,W,Lewis and Clark,Target Range,1/20/2022,5/8/2022,FC
+2021,June,1,1023,F,11,,GH,NA,Glacier/Blackfeet Tribal,Jeannette Rankin,1/14/2020,6/11/2021,FC
+2021,January,1,1024,M,11,BD,GH,NA,Glacier/Blackfeet Tribal,CS Porter,5/22/2020,,
+2022,December,1,1025,F,13,BD,K,NA,Missoula,Target Range,10/11/2022,12/9/2022,K
+2022,April,1,1026,F,12,BD,FC,W,Lincon,CS Porter,1/18/2022,9/14/2022,YDI
+2021,March,1,1028,F,11,Respite,R,AA,Missoula,NA,3/10/2021,3/11/2021,GH
+2023,March,1,1029,F,12,BD,FC,NA,Missoula,Washington Middle,9/25/2022,3/8/2023,GH
+2021,December,1,1030,F,11,N,FC,W,Deer Lodge,Jeannette Rankin,9/11/2020,12/18/2021,FC
+2021,September,2,1031,M,11,BD,OH,W,Flathead,NA,9/23/2021,9/27/2021,N
+2023,March,1,1032,F,12,BD,N,W,Silverbow,CS Porter,12/9/2022,3/7/2023,K
+2023,June,1,1033,M,13,BD,N,N/A,Missoula,CS Porter,3/7/2023,6/6/2023,NH
+2021,April,1,1034,M,10,BD,N,W,Yellowstone,NA,4/9/2021,4/17/2021,N
+2022,Jan,2,1035,M,10,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,,
+2022,May,1,1035,M,12,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,,
+2022,August,1,1035,M,10,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,7/27/2022,FC
+2023,Feb,2,1038,F,12,stepdown,Residential ,NA,Blaine,Target Range,11/5/2021,2/10/2023,R
+2023,June,2,1039,F,12,BD,FC,Mixed,Lake,Target Range,2/16/2023,6/12/2023,GH
+2023,June,1,1040,M,12,BD,K,W,Silver Bow,Chief Charlo,2/22/2021,6/7/2023,FC
+2022,August,1,1041,F,12,BD,SC,NA,Silver Bow,CS Porter,8/9/2022,8/22/2022,JD
+2021,April,2,1042,M,10,BD,FC,W,Silver Bow,Target Range,4/2/2021,,
+2021,June,1,1042,M,10,BD,FC,W,Silver Bow,Target Range,4/2/2021,,
+2021,November,1,1042,M,10,BD,FC,W,Silver Bow,Target Range,4/2/2021,11/13/2021,FC
+2022,June,2,1045,M,11,BD,FC,W,Yellowstone,Target Range,5/10/2022,6/8/2022,FC
+2022,Feb,1,1046,M,10,Mental H,N,W,Missoula,Hellgate,1/15/2022,2/18/2022,FC
+2022,August,2,1047,M,11,BD,FC,Mixed,Lincoln,NA,7/13/2022,8/29/2022,N
+2023,July,2,1048,F,12,BD,N,W,Missoula,Hellgate Ele,1/10/2023,7/20/2023,N
+2023,Jan,1,1049,M,10,BD,FC,NA,Yellowstone,CS Porter,12/21/2021,1/17/2023,GH
+2023,August,1,1051,M,11,BD,FC,W,Lewis and Clark,Jeannette Rankin,11/4/2022,8/28/2023,FC
+2021,November,1,1052,F,10,Drugs/Alcho,N,W,Missoula,Jeannette Rankin,11/14/2021,11/30/2021,N
+2023,Feb,2,1053,F,11,Mental H,N,W,Missoula,Target Range,12/2/2021,2/16/2023,K
+2022,Jan,1,1054,F,10,Mental H,N,W,Missoula,Lolo,12/2/2021,,
+2022,Jan,2,1055,M,9,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,,
+2022,May,1,1055,M,10,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,,
+2022,August,1,1055,M,9,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,7/27/2022,FC
+2022,October,2,1058,F,10,BD,N,W,Missoula,Target Range,6/28/2022,10/2/2022,K
+2021,July,2,1059,M,9,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,6/25/2020,7/9/2021,K
+2021,August,2,1060,M,9,BD,FC,NA,Missoula,NA,8/11/2021,8/30/2021,N
+2023,April,2,1061,M,10,BD,N,NA,Missoula,Hawthorne,4/20/2023,4/30/2023,BM
+2023,May,1,1062,F,11,BD,FC,W,Beaverhead Co.,Jeannette Rankin,9/9/2022,5/23/2023,FC
+2023,Jan,1,1063,F,10,BD,FC,NA,Missoula,Paxson Elem,9/25/2022,,
+2023,Jan,1,1064,M,10,BD,N,W,Missoula,Franklin,1/25/2023,,
+2022,Feb,1,1065,F,9,Homeless,Tshelter,NA,BIA-Rosevelt,Jeannette Rankin,11/16/2021,3/31/2022,TG
+2022,October,1,1066,M,9,Drugs/DV,N,NA,Sanders,Jeannette Rankin,3/5/2021,10/18/2022,N
+2023,August,1,1067,M,10,SA,FC,W,Silverbow,N/A,7/21/2023,8/23/2023,FC
+2022,August,1,1068,F,9,BD,FC,W,Custer,Jeannette Rankin,8/5/2022,,
+2023,Jan,2,1068,F,10,Respite,FC,W,Custer,NA,1/6/2023,1/8/2023,FC
+2023,Feb,2,1068,F,10,Respite,FC,W,Custer,NA,2/17/2023,2/20/2023,K
+2021,August,2,1071,M,8,BD,FC,W,Silver Bow,NA,6/18/2021,8/9/2021,K
+2023,July,2,1072,F,10,BD,N,W,Missoula,Hellgate Ele.,1/10/2023,7/20/2023,N
+2023,Jan,1,1073,F,8,BD,GH,NA,TSSD- Pablo,Hawthorne,8/2/2021,,
+2021,April,2,1074,F,7,BD,FC,W,Silver Bow,Target Range,4/2/2021,,
+2021,June,1,1074,F,7,BD,FC,W,Silver Bow,Target Range,4/2/2021,,
+2021,November,1,1074,F,8,BD,FC,W,Silver Bow,Target Range,4/2/2021,11/13/2021,FC
+2023,March,1,1074,F,8,BD,FC,W,Silver Bow,Jeannette Rankin,8/2/2022,3/9/2023,FC
+2023,May,2,1078,M,9,Stepdown,Residential,W,Ravalli,Target Range,5/10/2023,,
+2023,April,2,1079,M,9,BD,K,NA,TSSD- Pablo,Target Range,3/6/2023,4/6/2023,N
+2021,December,1,1080,M,8,BD,FC,H,Flathead,Franklin,4/16/2021,12/17/2021,FC
+2023,August,1,1081,M,9,BD,FC,W,Flathead,Chief Charlo,8/28/2023,10/14/2023,FC
+2023,May,1,1082,M,9,BD,FC,NA,Blackfeet Family,Jeannette Rankin,12/20/2022,5/19/2023,NH
+2023,August,1,1083,M,9,Mental H/N,N,N/A,Missoula,N/A,7/17/2023,,
+2022,October,1,1084,F,8,Drugs/DV,N,NA,Sanders,Jeannette Rankin,3/5/2021,10/18/2022,N
+2021,March,1,1085,F,7,BD,N,W,Missoula,Hawthorne,2/19/2021,3/9/2021,N
+2022,Jan,2,1086,M,7,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,,
+2022,May,1,1086,M,7,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,,
+2022,August,1,1086,M,7,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,4/21/2021,7/27/2022,Fc
+2023,March,1,1089,F,9,BD,N,W,Missoula,Jeannette Rankin,3/14/2023,,
+2021,November,1,1090,F,7,BD,FC,W,Silver Bow,Russell,7/19/2021,11/19/2021,FC
+2021,March,1,1091,F,6,DV,N,H,Silver Bow,Jeannette Rankin,12/14/2020,3/1/2021,N
+2023,Jan,2,1092,F,8,Mental H/N,N,NA,Missoula,Lowell,10/12/2022,,
+2021,November,1,1093,M,7,Drugs/Alcho,N,W,Missoula,Jeannette Rankin,11/14/2021,11/30/2021,N
+2023,July,1,1094,M,8,BD,FC,W,Silverbow,Jeannette Rankin,3/9/2023,7/10/2023,FC
+2021,January,1,1095,M,6,BD,FC,H,Beaverhead,Jeannette Rankin,6/16/2020,1/31/2021,K
+2021,June,1,1096,F,6,BD,FC,W,Missoula,Russell,3/17/2021,6/10/2021,FC
+2021,April,2,1097,F,6,BD,FC,NA,Glaicer/Blackfeet Tribal,Target Range,11/12/2020,4/1/2021,FC
+2023,Feb,1,1098,M,8,BD,N,N/A,Lewis and Clark,Jeannette Rankin,11/4/2022,2/17/2023,N
+2023,Feb,2,1099,M,8,Mental H,N,W,Missoula,Target Range,12/2/2021,2/16/2023,K
+2022,Jan,1,1099,M,6,Mental H,N,W,Missoula,Lolo,12/2/2021,,
+2023,April,2,1101,M,8,BD,K,NA,TSSD- Pablo,Target Range,3/6/2023,4/6/2023,N
+2023,April,1,1102,F,7,BD,GH,W,Silver Bow,Jeannette Rankin,3/3/2022,4/7/2023,N
+2023,Jan,1,1103,M,7,BD,N,W,Glacier,Jeannette Rankin,10/25/2022,,
+2021,February,1,1104,M,5,N/PA,FC,AA,Missoula,Jeannette Rankin,8/3/2020,2/26/2021,FC
+2022,December,1,1105,F,7,BD,K,N/A,Missoula,Jeannette Rankin,11/3/2022,12/14/2022,GH
+2023,March,2,1106,M,7,N,N,Mixed,Missoula,Lowell,2/18/2023,3/1/2023,N
+2021,August,2,1107,M,6,BD,FC,Mixed,Silver Bow,Target Range,2/20/2020,8/20/2021,N
+2022,October,1,1108,M,6,Drugs/DV,N,NA,Sanders,Jeannette Rankin,3/5/2021,10/18/2022,N
+2021,August,1,1109,F,6,Drugs,N,W,Beaverhead,NA,5/29/2021,8/5/2021,FC
+2021,October,2,1110,F,6,BD,FC,W,Beaverhead,Target Range,9/11/2021,10/17/2021,N
+2023,Jan,2,1111,F,7,Mental H/N,N,NA,Missoula,Lowell,10/12/2022,,
+2021,December,2,1112,F,6,BD,FC,W,Silver Bow,Target Range,8/20/2021,12/9/2021,GH
+2021,March,1,1113,M,5,DV,N,H,Silver Bow,Head Start,12/14/2020,3/1/2021,N
+2021,January,1,1114,F,5,BD,FC,H,Beaverhead,Head Start,6/16/2020,1/31/2021,K
+2021,April,2,1115,F,5,BD,FC,NA,Glaicer/Blackfeet Tribal,Head Start,11/12/2020,4/1/2021,FC
+2022,October,1,1116,M,6,BD,N,N/A,Missoula,Hawthorne,10/30/2022,11/1/2022,K
+2023,April,2,1117,M,7,BD,K,NA,TSSD- Pablo,Target Range,3/6/2023,4/6/2023,N
+2022,October,1,1118,M,5,Drugs/DV,N,NA,Sanders,Head Start,3/5/2021,10/18/2022,N
+2021,August,2,1119,F,5,BD,FC,Mixed,Missoula,NA,8/11/2021,8/30/2021,N
+2023,April,2,1119,F,7,BD,N,Mixed,Missoula,Hawthorne,4/20/2023,4/30/2023,BM
+2021,February,1,1121,M,4,N/PA,FC,AA,Missoula,Head Start,8/3/2020,2/26/2021,FC
+2021,March,1,1122,M,4,BD,N,W,Missoula,Head Start,2/19/2021,3/9/2021,N
+2021,March,1,1123,M,4,DV,N,H,Silver Bow,Head Start,12/14/2020,3/1/2021,N
+2021,April,2,1124,M,4,N,N,W,Silver Bow,Head Start,12/10/2020,4/9/2021,FC
+2023,April,1,1125,F,5,BD,GH,W,Silver Bow,NA,3/3/2022,4/7/2023,N
+2023,March,2,1126,M,6,N,N,Mixed,Missoula,Lowell,2/18/2023,3/1/2023,N
+2022,December,1,1127,M,6,BD,FC,W,Beaverhead Co.,N/A,4/1/2022,12/29/2022,N
+2021,November,1,1128,M,4,Drugs/Alcho,N,W,Missoula,N/A,11/14/2021,11/30/2021,N
+2021,August,2,1129,M,4,BD,FC,Mixed,Silver Bow,Head Start,2/20/2020,8/20/2021,N
+2023,Jan,2,1130,M,5,BD,FC,Mixed,Dawson,Target Range,9/29/2021,1/24/2022,FC
+2022,October,1,1131,F,5,BD,N,N/A,Missoula,Hawthorne,10/30/2022,11/1/2022,K
+2021,August,2,1132,M,3,BD,FC,NA,Missoula,NA,8/11/2021,8/30/2021,N
+2023,April,2,1132,M,5,BD,N,Mixed,Missoula,NA,4/20/2023,4/30/2023,BM
+2021,April,1,1134,M,3,Parental arrest,N,H,Missoula,NA,4/12/2021,4/12/2021,K
+2021,October,2,1135,M,3,N,N,W,Missoula,NA,10/19/2021,10/19/2021,N
+2021,August,2,1136,F,3,BD,FC,W,Silver Bow,NA,6/18/2021,8/9/2021,K
+2022,August,2,1137,F,3,BD,FC,W,Silver Bow,Head Start,1/20/2022,7/8/2022,FC
+2021,July,2,1138,M,3,BD,FC,W,Missoula,NA,7/9/2021,7/16/2021,FC
+2021,September,2,1138,M,3,Respite,FC,W,Missoula,NA,9/6/2021,9/23/2021,FC
+2022,October,2,1140,M,3,BD,FC,W,Missoula,Target Range,11/5/2021,12/27/2022,K
+2022,Feb,1,1141,F,3,Mental H,N,W,Missoula,N/A,1/15/2022,2/18/2022,FC
+2021,August,1,1142,M,2,Drugs,N,W,Beaverhead,NA,5/29/2021,8/5/2021,FC
+2021,October,2,1143,M,2,BD,FC,W,Beaverhead,NA,9/11/2021,10/17/2021,N
+2022,October,1,1144,M,3,BD,N,N/A,Missoula,Meadowlark Daycare,10/30/2022,11/1/2022,K
+2023,Feb,2,1145,F,3,Mental H,N,W,Missoula,Head Start,12/2/2021,2/16/2023,K
+2022,Jan,1,1145,F,2,Mental H,N,W,Missoula,N/A,12/2/2021,,
+2021,March,2,1147,M,1,N,N,W,Silver Bow,NA,12/10/2020,3/18/2021,N
+2021,March,1,1148,M,1,DV,N,H,Silver Bow,NA,12/14/2020,3/1/2021,N
+2021,October,2,1149,M,1,BD,FC,W,Beaverhead,NA,9/11/2021,10/17/2021,N
+2023,July,2,1150,M,1,BD,FC,W,Missoula,NA,7/21/2023,,
+2021,May,1,1151,M,2,Drugs,N,W,Beaverhead,NA,5/29/2021,,
+2021,April,1,1152,M,9,BD,N,W,Mineral,NA,4/25/2021,4/26/2021,K
